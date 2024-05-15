@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FormAtencion/1.0.0": {
+        "dependencies": {
+          "Jeremias.Poropat.23": "1.0.0"
+        },
+        "runtime": {
+          "FormAtencion.dll": {}
+        }
+      },
+      "Jeremias.Poropat.23/1.0.0": {
+        "runtime": {
+          "Jeremias.Poropat.23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormAtencion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jeremias.Poropat.23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

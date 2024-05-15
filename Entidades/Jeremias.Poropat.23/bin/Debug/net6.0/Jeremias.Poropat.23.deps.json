@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Jeremias.Poropat.23/1.0.0": {
+        "runtime": {
+          "Jeremias.Poropat.23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jeremias.Poropat.23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

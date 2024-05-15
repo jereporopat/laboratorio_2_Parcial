@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Jeremias.Poropat.23/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Jeremias.Poropat.23.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Jeremias.Poropat.23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jeremias.Poropat.23/1.0.0": {
+      "type": "project",
+      "path": "../Jeremias.Poropat.23/Jeremias.Poropat.23.csproj",
+      "msbuildProject": "../Jeremias.Poropat.23/Jeremias.Poropat.23.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Jeremias.Poropat.23 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jeremias Poropat\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jeremias Poropat\\Desktop\\Parcial Labo2 - 2024\\laboratorio_2_Parcial\\Entidades\\FormAtencion\\FormAtencion.csproj",
+      "projectName": "FormAtencion",
+      "projectPath": "C:\\Users\\Jeremias Poropat\\Desktop\\Parcial Labo2 - 2024\\laboratorio_2_Parcial\\Entidades\\FormAtencion\\FormAtencion.csproj",
+      "packagesPath": "C:\\Users\\Jeremias Poropat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jeremias Poropat\\Desktop\\Parcial Labo2 - 2024\\laboratorio_2_Parcial\\Entidades\\FormAtencion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Jeremias Poropat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Jeremias Poropat\\Desktop\\Parcial Labo2 - 2024\\laboratorio_2_Parcial\\Entidades\\Jeremias.Poropat.23\\Jeremias.Poropat.23.csproj": {
+              "projectPath": "C:\\Users\\Jeremias Poropat\\Desktop\\Parcial Labo2 - 2024\\laboratorio_2_Parcial\\Entidades\\Jeremias.Poropat.23\\Jeremias.Poropat.23.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
